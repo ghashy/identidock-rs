@@ -1,0 +1,7 @@
+.env
+.git/
+target/
+tests/
+Dockerfile
+scripts/
+
